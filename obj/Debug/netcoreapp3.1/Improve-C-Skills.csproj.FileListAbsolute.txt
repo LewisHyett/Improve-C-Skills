@@ -9,3 +9,7 @@ C:\Users\lewis\Documents\GitHub\Improve-C-Skills\obj\Debug\netcoreapp3.1\Improve
 C:\Users\lewis\Documents\GitHub\Improve-C-Skills\obj\Debug\netcoreapp3.1\Improve-C-Skills.AssemblyInfo.cs
 C:\Users\lewis\Documents\GitHub\Improve-C-Skills\obj\Debug\netcoreapp3.1\Improve-C-Skills.dll
 C:\Users\lewis\Documents\GitHub\Improve-C-Skills\obj\Debug\netcoreapp3.1\Improve-C-Skills.pdb
+C:\Users\lewis\Documents\GitHub\Improve-C-Skills\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\lewis\Documents\GitHub\Improve-C-Skills\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lewis\Documents\GitHub\Improve-C-Skills\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\lewis\Documents\GitHub\Improve-C-Skills\obj\Debug\netcoreapp3.1\Improve-C-Skills.csproj.CopyComplete
