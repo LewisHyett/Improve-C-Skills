@@ -1,0 +1,11 @@
+C:\Users\lewis\Documents\GitHub\Improve-C-Skills\bin\Debug\netcoreapp3.1\Improve-C-Skills.exe
+C:\Users\lewis\Documents\GitHub\Improve-C-Skills\bin\Debug\netcoreapp3.1\Improve-C-Skills.deps.json
+C:\Users\lewis\Documents\GitHub\Improve-C-Skills\bin\Debug\netcoreapp3.1\Improve-C-Skills.runtimeconfig.json
+C:\Users\lewis\Documents\GitHub\Improve-C-Skills\bin\Debug\netcoreapp3.1\Improve-C-Skills.runtimeconfig.dev.json
+C:\Users\lewis\Documents\GitHub\Improve-C-Skills\bin\Debug\netcoreapp3.1\Improve-C-Skills.dll
+C:\Users\lewis\Documents\GitHub\Improve-C-Skills\bin\Debug\netcoreapp3.1\Improve-C-Skills.pdb
+C:\Users\lewis\Documents\GitHub\Improve-C-Skills\obj\Debug\netcoreapp3.1\Improve-C-Skills.csprojAssemblyReference.cache
+C:\Users\lewis\Documents\GitHub\Improve-C-Skills\obj\Debug\netcoreapp3.1\Improve-C-Skills.AssemblyInfoInputs.cache
+C:\Users\lewis\Documents\GitHub\Improve-C-Skills\obj\Debug\netcoreapp3.1\Improve-C-Skills.AssemblyInfo.cs
+C:\Users\lewis\Documents\GitHub\Improve-C-Skills\obj\Debug\netcoreapp3.1\Improve-C-Skills.dll
+C:\Users\lewis\Documents\GitHub\Improve-C-Skills\obj\Debug\netcoreapp3.1\Improve-C-Skills.pdb
