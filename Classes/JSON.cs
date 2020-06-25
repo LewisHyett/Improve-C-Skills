@@ -1,28 +1,29 @@
-﻿using System;
+using System;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Text;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace Improve_C_Skills
+namespace JSON_functions
 {
-    class Program
+    public static class JSON
     {
-
         private const string URL = "https://jsonplaceholder.typicode.com/posts/1";
-        static void Main(string[] args)
-        {            
 
+        public static void CallJSONAPI()
+        {
             using (HttpClient client = new HttpClient())
             {
                 string responseString;
                 using (HttpRequestMessage request = new HttpRequestMessage(HttpMethod.Get, new Uri(URL)))
                 {
+                    
                     HttpResponseMessage response = client.SendAsync(request).Result;
 
                     // Get the response content as a string
-                    responseString = response.Content.ReadAsStringAsync().Result;                    
+                    responseString = response.Content.ReadAsStringAsync().Result;
+                    
                     var o = JObject.Parse(responseString);
 
                     //Loop throgh all Values
@@ -44,13 +45,10 @@ namespace Improve_C_Skills
                     {
                         System.Console.WriteLine(item.Value.ToString());
                     }
-                    
+
                 }
 
-
             }
-
-            
         }
     }
 }

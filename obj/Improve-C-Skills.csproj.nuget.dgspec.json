@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lewis\\Documents\\GitHub\\Improve-C-Skills\\Improve-C-Skills.csproj": {}
+    "D:\\Clone\\Improve-C-Skills\\Improve-C-Skills.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lewis\\Documents\\GitHub\\Improve-C-Skills\\Improve-C-Skills.csproj": {
+    "D:\\Clone\\Improve-C-Skills\\Improve-C-Skills.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lewis\\Documents\\GitHub\\Improve-C-Skills\\Improve-C-Skills.csproj",
+        "projectUniqueName": "D:\\Clone\\Improve-C-Skills\\Improve-C-Skills.csproj",
         "projectName": "Improve-C-Skills",
-        "projectPath": "C:\\Users\\lewis\\Documents\\GitHub\\Improve-C-Skills\\Improve-C-Skills.csproj",
+        "projectPath": "D:\\Clone\\Improve-C-Skills\\Improve-C-Skills.csproj",
         "packagesPath": "C:\\Users\\lewis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lewis\\Documents\\GitHub\\Improve-C-Skills\\obj\\",
+        "outputPath": "D:\\Clone\\Improve-C-Skills\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lewis\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -49,10 +49,6 @@
             "System.Net.Http": {
               "target": "Package",
               "version": "[4.3.4, )"
-            },
-            "System.Text": {
-              "target": "Package",
-              "version": "(, )"
             }
           },
           "imports": [
